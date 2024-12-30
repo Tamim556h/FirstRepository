@@ -1,2 +1,5 @@
 # FirstRepository
-This os my first repository
+This is my first repository
+<br>
+Tamim Hossen, Software Engineer
+
